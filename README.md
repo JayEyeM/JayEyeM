@@ -1,3 +1,5 @@
+<img src="linkedin Banner Joshua avatars1.svg" alt="Banner image of Joshua's avatar" width="100%">
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joshua Ivany
 ====================================================================================================================================
 
