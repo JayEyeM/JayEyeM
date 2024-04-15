@@ -11,7 +11,7 @@ Marine Cook turned Software Developer. I have been learning to code since Octobe
 * 🌍  I'm based in NL, Canada
 * ✉️  You can contact me at [jayeye@duck.com](mailto:jayeye@duck.com)
 * 🚀  I'm currently working on [Salmon Flow!](http://https://jayeyem.github.io/Salmon-Flow-Game/)
-* 🧠  I'm learning HTML, CSS, JavaScript.
+* 🧠  I'm learning HTML, CSS, JavaScript, TypeScript, React.
 * 🤝  I'm open to collaborating on exciting and fulfilling projects that will allow me to grow as a Software Developer.
 
 ### Skills
