@@ -6,12 +6,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Get Coding Full Stack Software Development Student.
 ---------------------------------------------------
 
-Marine Cook turned Software Developer. I have been learning to code since October 2023 and joined the Get Coding program in December 2023. I am nearing the end of my first module project, called "Salmon Flow!". A 2D game made with HTML, CSS, and JavaScript.
+Marine Cook turned Software Developer. I have been learning to code since October 2023 and joined the Get Coding program in December 2023. I have finished my first module project, called "Salmon Flow!". A 2D game made with HTML, CSS, and JavaScript. Recently, I have moved onto the second module, creating my React app called "Cater-Captain". A catering managment app. I am using Vite to set up the project, Chakra UI for components, and Typescript. 
 
 * 🌍  I'm based in NL, Canada
 * ✉️  You can contact me at [jayeye@duck.com](mailto:jayeye@duck.com)
-* 🚀  I'm currently working on [Salmon Flow!](http://https://jayeyem.github.io/Salmon-Flow-Game/)
-* 🧠  I'm learning HTML, CSS, JavaScript, TypeScript, React.
+* 🚀  I'm currently working on [Cater-Captain].
+* 🧠  I'm learning HTML, CSS, JavaScript, TypeScript, React, Chakra UI, Vite.
 * 🤝  I'm open to collaborating on exciting and fulfilling projects that will allow me to grow as a Software Developer.
 
 ### Skills
