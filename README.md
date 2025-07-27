@@ -9,13 +9,15 @@ Get Coding Full Stack Software Development Student.
 Marine Cook turned Software Developer. I have been learning to code since October 2023 and joined the Get Coding program in December 2023. I have finished my first module project, called "Salmon Flow!". A 2D game made with HTML, CSS, and JavaScript. Recently, I have moved onto the second module, creating my React app called "Cater-Captain". A catering managment app. I am using Vite to set up the project, Chakra UI for components, and Typescript. 
 
 * 🌍  I'm based in NL, Canada
-* ✉️  You can contact me at [jayeye@duck.com](mailto:jayeye@duck.com)
+* View 
+<a href="https://jayeyem.github.io/My-Portfolio-Page/" target="_blank" rel="noreferrer"><span>My Portfolio</span></a>
+
+* ✉️  You can contact (email) me [Here](mailto:jayeye@duck.com)
 * 🚀  I'm currently working on [TravelAgentApp](still to be officially named), and [Wollio], an icon library.
 * 🧠  I'm learning HTML, CSS, JavaScript, TypeScript, React, Chakra UI, Vite.
 * 🤝  I'm open to collaborating on exciting and fulfilling projects that will allow me to grow as a Software Developer.
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
@@ -38,4 +40,6 @@ Marine Cook turned Software Developer. I have been learning to code since Octobe
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/JayEyeM/Salmon-Flow-Game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayEyeM&repo=Salmon-Flow-Game&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=134e4a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/JayEyeM/Salmon-Flow-Game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayEyeM&repo=Salmon-Flow-Game&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=134e4a&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://jayeyem.github.io/My-Portfolio-Page/" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=JayEyeM&repo=My-Portfolio-Page&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=134e4a&hide_border=true&locale=en" /></a></div><br />
+<br /><br /><br /><br /><br /><br />
